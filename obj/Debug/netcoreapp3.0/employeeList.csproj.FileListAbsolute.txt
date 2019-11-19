@@ -1,0 +1,11 @@
+/Users/Heidi/workspace/CSharpDemos/employeeList/bin/Debug/netcoreapp3.0/employeeList
+/Users/Heidi/workspace/CSharpDemos/employeeList/bin/Debug/netcoreapp3.0/employeeList.deps.json
+/Users/Heidi/workspace/CSharpDemos/employeeList/bin/Debug/netcoreapp3.0/employeeList.runtimeconfig.json
+/Users/Heidi/workspace/CSharpDemos/employeeList/bin/Debug/netcoreapp3.0/employeeList.runtimeconfig.dev.json
+/Users/Heidi/workspace/CSharpDemos/employeeList/bin/Debug/netcoreapp3.0/employeeList.dll
+/Users/Heidi/workspace/CSharpDemos/employeeList/bin/Debug/netcoreapp3.0/employeeList.pdb
+/Users/Heidi/workspace/CSharpDemos/employeeList/obj/Debug/netcoreapp3.0/employeeList.csprojAssemblyReference.cache
+/Users/Heidi/workspace/CSharpDemos/employeeList/obj/Debug/netcoreapp3.0/employeeList.AssemblyInfoInputs.cache
+/Users/Heidi/workspace/CSharpDemos/employeeList/obj/Debug/netcoreapp3.0/employeeList.AssemblyInfo.cs
+/Users/Heidi/workspace/CSharpDemos/employeeList/obj/Debug/netcoreapp3.0/employeeList.dll
+/Users/Heidi/workspace/CSharpDemos/employeeList/obj/Debug/netcoreapp3.0/employeeList.pdb
